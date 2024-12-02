@@ -1,0 +1,1 @@
+This folder contains reports providing insights for the heads and vice heads of each department within the Indonesian Student Association. The data, collected from over 90 members via surveys, highlights expectations and preferences to help leaders better manage and support their teams.
