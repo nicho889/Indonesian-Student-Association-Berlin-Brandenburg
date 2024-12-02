@@ -1,0 +1,1 @@
+This folder contains reports for various departments of the Indonesian Student Association requiring insights for their projects. The reports aim to support departments in improving their outcomes. Data was collected from surveys (100+ responses) and analyzed to uncover actionable insights through combined information.
