@@ -1,0 +1,1 @@
+This folder contains the final accountability report, showcasing the work and contributions of my team. The report includes evaluations based on data analysis from various sources, such as Instagram API metrics (e.g., views), event/project surveys, and more, to assess whether the set KPIs were achieved.
